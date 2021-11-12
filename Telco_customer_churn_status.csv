@@ -1,4 +1,4 @@
-Customer_ID,Count,Quarter,Satisfaction Score,Customer Status,Churn_Label,Churn Value,Churn Score,CLTV,Churn Category,Churn Reason
+Customer_ID,Count,Quarter,Satisfaction Score,Customer Status,Churn_Label,Churn Value,Churn Score,CLTV,Churn Category,Churn_Reason
 8779-QRDMV,1,Q3,3,Churned,Yes,1,91,5433,Competitor,Competitor offered more data
 7495-OOKFY,1,Q3,3,Churned,Yes,1,69,5302,Competitor,Competitor made better offer
 1658-BYGOY,1,Q3,2,Churned,Yes,1,81,3179,Competitor,Competitor made better offer
