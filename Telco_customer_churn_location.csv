@@ -1,4 +1,4 @@
-Customer_ID,Count,Country,State,City,Zip Code,Lat Long,Latitude,Longitude
+Customer_ID,Count,Country,State,City,Zip_Code,Lat Long,Latitude,Longitude
 8779-QRDMV,1,United States,California,Los Angeles,90022,"34.02381, -118.156582",34.023810,-118.156582
 7495-OOKFY,1,United States,California,Los Angeles,90063,"34.044271, -118.185237",34.044271,-118.185237
 1658-BYGOY,1,United States,California,Los Angeles,90065,"34.108833, -118.229715",34.108833,-118.229715
