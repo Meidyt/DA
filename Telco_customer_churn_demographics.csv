@@ -1,4 +1,4 @@
-Customer ID,Count,Gender,Age,Under 30,Senior Citizen,Married,Dependents,Number of Dependents
+Customer_ID,Count,Gender,Age,Under 30,Senior Citizen,Married,Dependents,Number of Dependents
 8779-QRDMV,1,Male,78,No,Yes,No,No,0
 7495-OOKFY,1,Female,74,No,Yes,Yes,Yes,1
 1658-BYGOY,1,Male,71,No,Yes,No,Yes,3
